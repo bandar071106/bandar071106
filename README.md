@@ -1,4 +1,4 @@
-## hi there 🙌
+## HALLO EVERYONE 👾
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Bandar%20Sudarman%20|%20Web%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
